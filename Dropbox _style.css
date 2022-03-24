@@ -1,0 +1,108 @@
+html, :root {
+    box-sizing: border-box;
+    font: 81.25%/1.75 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 81.25%;
+    line-height: 1.75;
+    font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #3d464d;
+}
+
+
+body {
+    color: #444;
+    font-size: 38px;
+    font-weight: lighter;
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-color: #fff;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body, input, textarea, select, button, .normal {
+    font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+}
+
+div.figure {
+    margin: 40px 0 0;
+    padding: 0;
+}
+
+div.figure img {
+    height: 300px;
+    width: 300px;
+}
+
+#errorbox {
+    
+    line-height: 1.6em;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 0 20px;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+#errorbox .not-found {
+    color: rgba(0,0,0,0.75);
+    font-size: 21px;
+    font-weight: lighter;
+    line-height: 36px;
+    text-align: center;
+}
+
+errorbox .not-found h1 {
+    color: rgba(0,0,0,0.75);
+    font-size: 38px;
+    font-weight: lighter;
+    line-height: 47px;
+}
+
+h1 {
+    display: block;
+    font-size: 38px;
+    font-weight: lighter;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+
+#errorbox .not-found--links {
+    margin: 48px 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+}
+#errorbox .not-found--links ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+#errorbox a {
+    color: #005ff8;
+    text-decoration: none;
+}
+
+#errorbox .not-found--links ul li a:hover {
+    text-decoration: underline;
+    
+}
+#errorbox .not-found--links ul li {
+    
+    margin-top: 10px;
+}
+
